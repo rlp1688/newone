@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6e73814d.css",
+    "main.js": "/static/js/main.91d7ff99.js",
+    "static/media/img1.png": "/static/media/img1.862c1458b4843eb36e0a.png",
+    "static/media/img4.jpeg": "/static/media/img4.aa608e73c60d53382c09.jpeg",
+    "static/media/img1.jpeg": "/static/media/img1.0b372db7aff8cf2d300a.jpeg",
+    "static/media/img5.jpeg": "/static/media/img5.8e478804a231e374032a.jpeg",
+    "static/media/waterfall.png": "/static/media/waterfall.19d6582b1e5bb1d31adb.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.6e73814d.css.map": "/static/css/main.6e73814d.css.map",
+    "main.91d7ff99.js.map": "/static/js/main.91d7ff99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e73814d.css",
+    "static/js/main.91d7ff99.js"
+  ]
+}
